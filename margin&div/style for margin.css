@@ -1,0 +1,53 @@
+*{
+padding: 0px;
+margin: 0px;
+
+
+}
+.text_para{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+}
+#wrap{
+    margin: auto;
+    text-align: center;
+
+}
+#nheader{
+    background-image: url(XZDsP.jpg);
+    background-color: purple;;
+    padding: 25px;
+    height: 150px;
+    vertical-align: middle;
+
+}
+/*img{
+    border: dotted 2px rgb(255, 0, 0);
+}*/
+
+
+h1{
+    margin: 50px auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    /*display: flex;
+    align-items: center;
+      justify-content: center*/
+ 
+}
+#npara{
+    background-color: rgba(0, 0, 255, 0.315);
+    background-attachment:fixed;
+    background-image: url("depositphotos_17180113-stock-photo-black-background.jpg");
+    height: 350px;
+    padding: 30px;
+   
+}
+.red-color{
+color: red;
+}
+#footer{
+    background-color: purple;
+    padding: 30px;
+}
