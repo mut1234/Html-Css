@@ -1,0 +1,28 @@
+.label{
+    padding: 5px;
+    text-align: center;
+    border: thin,black;
+    /* background-color: rgba(255, 205, 244, 0.432); */
+    font-size: large;
+}
+.input{
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+
+}
+
+#sub {
+    padding: 5px;
+    text-align: center;
+    border: thin,black;
+    font-size: large;
+
+}
+#res {
+    padding: 5px;
+    text-align: center;
+    border: thin,black;
+    font-size: large;
+
+}
