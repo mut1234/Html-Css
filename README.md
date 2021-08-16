@@ -1,6 +1,6 @@
 # Html-Css
 
-#### this some of topic that i study in html-css
+#### This some of topic that i study in html-css
 
 ### by mustafa
 
